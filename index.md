@@ -1,3 +1,6 @@
+---
+title: Photosynthesis on Exoplanets
+---
 Photosynthesis on Exoplanets
 ============================
 If there is life on other planets, there must be autotrophs.
